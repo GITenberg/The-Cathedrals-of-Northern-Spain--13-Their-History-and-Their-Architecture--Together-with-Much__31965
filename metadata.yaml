@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35577'
     url: http://www.gutenberg.org/2009/agents/35577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31965#The-Cathedrals-of-Northern-Spain--13-Their-History-and-Their-Architecture--Together-with-Much_
 gutenberg_issued: '2010-04-12'
 gutenberg_type: Text
 identifiers:
