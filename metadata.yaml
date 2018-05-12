@@ -1,0 +1,27 @@
+_repo: The-Cathedrals-of-Northern-Spain--13-Their-History-and-Their-Architecture--Together-with-Much__31965
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31965-h/images/ill_inscover.jpg
+creator:
+  author:
+    agent_name: Rudy, Charles
+    gutenberg_agent_id: '35577'
+    url: http://www.gutenberg.org/2009/agents/35577
+description: ''
+gutenberg_issued: '2010-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31965'
+  lccn: '05035402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Cathedrals -- Spain'
+title: "The Cathedrals of Northern Spain\r\nTheir History and Their Architecture;\
+  \ Together with Much of Interest Concerning the Bishops, Rulers and Other Personages\
+  \ Identified with Them"
+url: http://www.gutenberg.org/ebooks/31965
